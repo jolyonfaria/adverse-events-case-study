@@ -14,7 +14,7 @@ To run this jupyter notebook:
 1. Install [Python 3.5.2](https://www.python.org/downloads/release/python-352/)
 2. Install [jupyter notebook](http://jupyter.readthedocs.io/en/latest/install.html)
 3. Install Python packages corresponding to the modules detailed at the top of the notebook
-4. [Run notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
+4. [Run notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) in file 'adverse_events_notebook.ipynb'.
 
 
 ## Resources
