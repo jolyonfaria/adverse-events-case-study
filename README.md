@@ -2,7 +2,7 @@
 
 This is a case study on adverse events using the [Drug Adverse Events](https://open.fda.gov/drug/event/) API endpoints from the [openFDA](https://open.fda.gov/drug/) data service.
 
-An adverse event is defined by the FDA as "any undesirable experience associated with the use of a medical product in a patient.
+An adverse event is defined by the FDA as any undesirable experience associated with the use of a medical product in a patient.
 Undesirable experiences include serious drug side effects, product use errors, product quality problems, and therapeutic failures.
 
 In this analysis, adverse event reporting is compared between countries (Canada, Germany, Japan, United Kingdom and United States). Adverse events are investigated across all drugs, and in response to specific drugs: Simvastatin and Paracetamol (Acetaminophen).
